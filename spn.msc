@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MCC>
+  <SnapIns>
+    <SnapIn Name="Calculator" ClassID="{20D04FE0-3AEA-1069-A2D8-08002B30309D}" />
+  </SnapIns>
+  <RootNode NodeType="0" guid="00000000-0000-0000-0000-000000000000" />
+</MCC>
